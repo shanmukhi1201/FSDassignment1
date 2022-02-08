@@ -1,0 +1,13 @@
+p {
+  color: gray;
+}
+a {
+  text-decoration: none;
+  color: darkblue;
+}
+.items {
+  margin: auto;
+  background-color: aliceblue;
+  width: 310px;
+  height: 300px;
+}
