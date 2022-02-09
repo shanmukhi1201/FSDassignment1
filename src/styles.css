@@ -9,5 +9,15 @@ a {
   margin: auto;
   background-color: aliceblue;
   width: 310px;
-  height: 300px;
+  height: 350px;
+  border-radius: 10px;
+}
+.container {
+  width: 500px;
+  height: 400px;
+  background-color: grey;
+  margin: auto;
+}
+.divthree {
+  align-items: center;
 }

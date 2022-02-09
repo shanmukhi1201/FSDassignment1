@@ -8,13 +8,18 @@ import image from './images/lizard image.jpg'
 function Lizard(){
     return (
         <div className="container">
+            <br/>
         <div className="items">
          <img src={image} />
+         <div className="divthree">
         <h1>Lizard</h1>
         <p>Lizards are widespread group of squamate reptiles, 
             with over 6,000 species, ranging across all continents except Antartica</p>
-        <a href="">Share</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="">Share</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="">Learn More</a>
+        </div>
         </div>
         </div>
     );
